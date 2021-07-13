@@ -13,9 +13,9 @@ function ProfileSidebar(propriedades) {
 }
 
 export default function Home() {
-  const usuarioAleatorio = 'omariosouto';
+  const usuarioAleatorio = 'gustavomaes';
   const pessoasFavoritas = [
-    'juunegreiros',
+    'LucaRavizzoni',
     'omariosouto',
     'peas',
     'rafaballerini',
